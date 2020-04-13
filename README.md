@@ -7,3 +7,5 @@ just another repository
 
 
 ![Screenshot](comp.jpg)
+
+<img src="comp.jpg" width="350" title="hover text">
