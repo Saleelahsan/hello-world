@@ -5,9 +5,6 @@ just another repository
   
   ![Screenshot](comp.jpg)
 
-
-![Screenshot](comp.jpg)
-
 <p>
 <img src="comp.jpg" width="350" title="hover text">
-  </p>
+</p>
